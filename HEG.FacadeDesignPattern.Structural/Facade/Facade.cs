@@ -1,4 +1,4 @@
-﻿using HEG.FacadeDesignPattern.RealWorld.Facade.SubSystem;
+﻿using HEG.FacadeDesignPattern.RealWorld.Structural.SubSystem;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,10 +9,10 @@ namespace HEG.FacadeDesignPattern.RealWorld.Facade
 {
     public class Facade
     {
-        SubSystemOne one;
-        SubSystemTwo two;
-        SubSystemThree three;
-        SubSystemFour four;
+        private readonly SubSystemOne one;
+        private readonly SubSystemTwo two;
+        private readonly SubSystemThree three;
+        private readonly SubSystemFour four;
         public Facade()
         {
             one = new SubSystemOne();

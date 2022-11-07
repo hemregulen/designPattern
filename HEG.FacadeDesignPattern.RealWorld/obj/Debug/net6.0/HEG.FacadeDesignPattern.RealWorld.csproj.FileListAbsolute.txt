@@ -1,0 +1,15 @@
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.RealWorld\bin\Debug\net6.0\HEG.FacadeDesignPattern.RealWorld.exe
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.RealWorld\bin\Debug\net6.0\HEG.FacadeDesignPattern.RealWorld.deps.json
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.RealWorld\bin\Debug\net6.0\HEG.FacadeDesignPattern.RealWorld.runtimeconfig.json
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.RealWorld\bin\Debug\net6.0\HEG.FacadeDesignPattern.RealWorld.dll
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.RealWorld\bin\Debug\net6.0\HEG.FacadeDesignPattern.RealWorld.pdb
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.RealWorld\obj\Debug\net6.0\HEG.FacadeDesignPattern.RealWorld.csproj.AssemblyReference.cache
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.RealWorld\obj\Debug\net6.0\HEG.FacadeDesignPattern.RealWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.RealWorld\obj\Debug\net6.0\HEG.FacadeDesignPattern.RealWorld.AssemblyInfoInputs.cache
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.RealWorld\obj\Debug\net6.0\HEG.FacadeDesignPattern.RealWorld.AssemblyInfo.cs
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.RealWorld\obj\Debug\net6.0\HEG.FacadeDesignPattern.RealWorld.csproj.CoreCompileInputs.cache
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.RealWorld\obj\Debug\net6.0\HEG.FacadeDesignPattern.RealWorld.dll
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.RealWorld\obj\Debug\net6.0\refint\HEG.FacadeDesignPattern.RealWorld.dll
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.RealWorld\obj\Debug\net6.0\HEG.FacadeDesignPattern.RealWorld.pdb
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.RealWorld\obj\Debug\net6.0\HEG.FacadeDesignPattern.RealWorld.genruntimeconfig.cache
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.RealWorld\obj\Debug\net6.0\ref\HEG.FacadeDesignPattern.RealWorld.dll
