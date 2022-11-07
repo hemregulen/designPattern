@@ -1,0 +1,15 @@
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.RealWorld\bin\Debug\net6.0\HEG.BridgeDesignPattern.RealWorld.exe
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.RealWorld\bin\Debug\net6.0\HEG.BridgeDesignPattern.RealWorld.deps.json
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.RealWorld\bin\Debug\net6.0\HEG.BridgeDesignPattern.RealWorld.runtimeconfig.json
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.RealWorld\bin\Debug\net6.0\HEG.BridgeDesignPattern.RealWorld.dll
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.RealWorld\bin\Debug\net6.0\HEG.BridgeDesignPattern.RealWorld.pdb
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.RealWorld\obj\Debug\net6.0\HEG.BridgeDesignPattern.RealWorld.csproj.AssemblyReference.cache
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.RealWorld\obj\Debug\net6.0\HEG.BridgeDesignPattern.RealWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.RealWorld\obj\Debug\net6.0\HEG.BridgeDesignPattern.RealWorld.AssemblyInfoInputs.cache
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.RealWorld\obj\Debug\net6.0\HEG.BridgeDesignPattern.RealWorld.AssemblyInfo.cs
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.RealWorld\obj\Debug\net6.0\HEG.BridgeDesignPattern.RealWorld.csproj.CoreCompileInputs.cache
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.RealWorld\obj\Debug\net6.0\HEG.BridgeDesignPattern.RealWorld.dll
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.RealWorld\obj\Debug\net6.0\refint\HEG.BridgeDesignPattern.RealWorld.dll
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.RealWorld\obj\Debug\net6.0\HEG.BridgeDesignPattern.RealWorld.pdb
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.RealWorld\obj\Debug\net6.0\HEG.BridgeDesignPattern.RealWorld.genruntimeconfig.cache
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.RealWorld\obj\Debug\net6.0\ref\HEG.BridgeDesignPattern.RealWorld.dll

@@ -1,0 +1,15 @@
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.Structural\obj\Debug\net6.0\HEG.BridgeDesignPattern.Structural.csproj.AssemblyReference.cache
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.Structural\obj\Debug\net6.0\HEG.BridgeDesignPattern.Structural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.Structural\obj\Debug\net6.0\HEG.BridgeDesignPattern.Structural.AssemblyInfoInputs.cache
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.Structural\obj\Debug\net6.0\HEG.BridgeDesignPattern.Structural.AssemblyInfo.cs
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.Structural\obj\Debug\net6.0\HEG.BridgeDesignPattern.Structural.csproj.CoreCompileInputs.cache
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.Structural\bin\Debug\net6.0\HEG.BridgeDesignPattern.Structural.exe
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.Structural\bin\Debug\net6.0\HEG.BridgeDesignPattern.Structural.deps.json
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.Structural\bin\Debug\net6.0\HEG.BridgeDesignPattern.Structural.runtimeconfig.json
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.Structural\bin\Debug\net6.0\HEG.BridgeDesignPattern.Structural.dll
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.Structural\bin\Debug\net6.0\HEG.BridgeDesignPattern.Structural.pdb
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.Structural\obj\Debug\net6.0\HEG.BridgeDesignPattern.Structural.dll
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.Structural\obj\Debug\net6.0\refint\HEG.BridgeDesignPattern.Structural.dll
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.Structural\obj\Debug\net6.0\HEG.BridgeDesignPattern.Structural.pdb
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.Structural\obj\Debug\net6.0\HEG.BridgeDesignPattern.Structural.genruntimeconfig.cache
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.BridgeDesignPattern.Structural\obj\Debug\net6.0\ref\HEG.BridgeDesignPattern.Structural.dll
