@@ -34,11 +34,11 @@ namespace HEG.FacadeDesignPattern.RealWorld.WashingMachine
             var rissing = rinsingSystem.RinsingSystemControl(weight);
             var spinning = spinningSystem.SpinningSystemControl(weight);
             var washing = washingSystem.WashingSystemControl(weight);
-            if (rissing)
+            if (!rissing)
                 Console.WriteLine("Ağırlık durulama sistemi için çok fazla");
-            if (spinning)
+            if (!spinning)
                 Console.WriteLine("Ağırlık döndürme sistemi için çok fazla");
-            if (washing)
+            if (!washing)
                 Console.WriteLine("Ağırlık yıkama sistemi için çok fazla");
             if (rissing && spinning && washing)
                 Console.WriteLine("Makineyi çalıştırmak için ağırlık tüm bileşenler için uygundur.");
