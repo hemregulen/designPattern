@@ -3,11 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BridgeDesingPattern", "BridgeDesingPattern", "{929EB616-AC6B-48AA-AC19-EEDAF817F97A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BridgeDesignPattern", "BridgeDesignPattern", "{929EB616-AC6B-48AA-AC19-EEDAF817F97A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HEG.BridgeDesignPattern.Structural", "HEG.BridgeDesignPattern.Structural\HEG.BridgeDesignPattern.Structural.csproj", "{06ECEC4C-7DB8-491E-B0A0-AB5166F91FC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HEG.BridgeDesignPattern.Structural", "HEG.BridgeDesignPattern.Structural\HEG.BridgeDesignPattern.Structural.csproj", "{06ECEC4C-7DB8-491E-B0A0-AB5166F91FC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HEG.BridgeDesignPattern.RealWorld", "HEG.BridgeDesignPattern.RealWorld\HEG.BridgeDesignPattern.RealWorld.csproj", "{5C39F17D-2EF9-4075-A6B2-1B4C39BE87CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HEG.BridgeDesignPattern.RealWorld", "HEG.BridgeDesignPattern.RealWorld\HEG.BridgeDesignPattern.RealWorld.csproj", "{5C39F17D-2EF9-4075-A6B2-1B4C39BE87CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FacadeDesignPattern", "FacadeDesignPattern", "{7DFCBB05-B68B-4862-AE7C-E79BDAEC4D59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HEG.FacadeDesignPattern.Structural", "HEG.FacadeDesignPattern.Structural\HEG.FacadeDesignPattern.Structural.csproj", "{E791D9AC-DA9F-41CE-BAF8-26FA405A5307}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HEG.FacadeDesignPattern.RealWorld", "HEG.FacadeDesignPattern.RealWorld\HEG.FacadeDesignPattern.RealWorld.csproj", "{5C246CDC-40AF-43D0-BBC2-B13F481D472A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +29,14 @@ Global
 		{5C39F17D-2EF9-4075-A6B2-1B4C39BE87CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C39F17D-2EF9-4075-A6B2-1B4C39BE87CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C39F17D-2EF9-4075-A6B2-1B4C39BE87CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E791D9AC-DA9F-41CE-BAF8-26FA405A5307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E791D9AC-DA9F-41CE-BAF8-26FA405A5307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E791D9AC-DA9F-41CE-BAF8-26FA405A5307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E791D9AC-DA9F-41CE-BAF8-26FA405A5307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C246CDC-40AF-43D0-BBC2-B13F481D472A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C246CDC-40AF-43D0-BBC2-B13F481D472A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C246CDC-40AF-43D0-BBC2-B13F481D472A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C246CDC-40AF-43D0-BBC2-B13F481D472A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +44,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{06ECEC4C-7DB8-491E-B0A0-AB5166F91FC1} = {929EB616-AC6B-48AA-AC19-EEDAF817F97A}
 		{5C39F17D-2EF9-4075-A6B2-1B4C39BE87CC} = {929EB616-AC6B-48AA-AC19-EEDAF817F97A}
+		{E791D9AC-DA9F-41CE-BAF8-26FA405A5307} = {7DFCBB05-B68B-4862-AE7C-E79BDAEC4D59}
+		{5C246CDC-40AF-43D0-BBC2-B13F481D472A} = {7DFCBB05-B68B-4862-AE7C-E79BDAEC4D59}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9D256E4F-FA69-49FF-B97E-F3A2F5BFEABD}
