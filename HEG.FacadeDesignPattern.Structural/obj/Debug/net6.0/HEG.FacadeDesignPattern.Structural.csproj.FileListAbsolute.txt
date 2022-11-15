@@ -1,0 +1,15 @@
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.Structural\bin\Debug\net6.0\HEG.FacadeDesignPattern.Structural.exe
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.Structural\bin\Debug\net6.0\HEG.FacadeDesignPattern.Structural.deps.json
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.Structural\bin\Debug\net6.0\HEG.FacadeDesignPattern.Structural.runtimeconfig.json
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.Structural\bin\Debug\net6.0\HEG.FacadeDesignPattern.Structural.dll
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.Structural\bin\Debug\net6.0\HEG.FacadeDesignPattern.Structural.pdb
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.Structural\obj\Debug\net6.0\HEG.FacadeDesignPattern.Structural.csproj.AssemblyReference.cache
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.Structural\obj\Debug\net6.0\HEG.FacadeDesignPattern.Structural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.Structural\obj\Debug\net6.0\HEG.FacadeDesignPattern.Structural.AssemblyInfoInputs.cache
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.Structural\obj\Debug\net6.0\HEG.FacadeDesignPattern.Structural.AssemblyInfo.cs
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.Structural\obj\Debug\net6.0\HEG.FacadeDesignPattern.Structural.csproj.CoreCompileInputs.cache
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.Structural\obj\Debug\net6.0\HEG.FacadeDesignPattern.Structural.dll
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.Structural\obj\Debug\net6.0\refint\HEG.FacadeDesignPattern.Structural.dll
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.Structural\obj\Debug\net6.0\HEG.FacadeDesignPattern.Structural.pdb
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.Structural\obj\Debug\net6.0\HEG.FacadeDesignPattern.Structural.genruntimeconfig.cache
+C:\Users\emre.gulen\source\repos\HEG.DesignPattern\HEG.FacadeDesignPattern.Structural\obj\Debug\net6.0\ref\HEG.FacadeDesignPattern.Structural.dll

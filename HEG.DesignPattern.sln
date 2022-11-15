@@ -11,9 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HEG.BridgeDesignPattern.Rea
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FacadeDesignPattern", "FacadeDesignPattern", "{7DFCBB05-B68B-4862-AE7C-E79BDAEC4D59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HEG.FacadeDesignPattern.Structural", "HEG.FacadeDesignPattern.Structural\HEG.FacadeDesignPattern.Structural.csproj", "{E791D9AC-DA9F-41CE-BAF8-26FA405A5307}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HEG.FacadeDesignPattern.Structural", "HEG.FacadeDesignPattern.Structural\HEG.FacadeDesignPattern.Structural.csproj", "{E791D9AC-DA9F-41CE-BAF8-26FA405A5307}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HEG.FacadeDesignPattern.RealWorld", "HEG.FacadeDesignPattern.RealWorld\HEG.FacadeDesignPattern.RealWorld.csproj", "{5C246CDC-40AF-43D0-BBC2-B13F481D472A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HEG.FacadeDesignPattern.RealWorld", "HEG.FacadeDesignPattern.RealWorld\HEG.FacadeDesignPattern.RealWorld.csproj", "{5C246CDC-40AF-43D0-BBC2-B13F481D472A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AbstractFactoryDesignPattern", "AbstractFactoryDesignPattern", "{DE7A440B-E630-4D04-98D3-563B276E9729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HEG.AbstractFactoryDesignPattern.Structural", "HEG.AbstractFactoryDesignPattern.Structural\HEG.AbstractFactoryDesignPattern.Structural.csproj", "{4D50BFBD-9C2A-4A08-AA6C-6D9FA0753FE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HEG.AbstractFactoryDesignPattern.RealWorld", "HEG.AbstractFactoryDesignPattern.RealWorld\HEG.AbstractFactoryDesignPattern.RealWorld.csproj", "{2FBA361F-7F89-47EA-A69E-8F1825668FD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +43,14 @@ Global
 		{5C246CDC-40AF-43D0-BBC2-B13F481D472A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C246CDC-40AF-43D0-BBC2-B13F481D472A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C246CDC-40AF-43D0-BBC2-B13F481D472A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D50BFBD-9C2A-4A08-AA6C-6D9FA0753FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D50BFBD-9C2A-4A08-AA6C-6D9FA0753FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D50BFBD-9C2A-4A08-AA6C-6D9FA0753FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D50BFBD-9C2A-4A08-AA6C-6D9FA0753FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FBA361F-7F89-47EA-A69E-8F1825668FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBA361F-7F89-47EA-A69E-8F1825668FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBA361F-7F89-47EA-A69E-8F1825668FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBA361F-7F89-47EA-A69E-8F1825668FD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +60,8 @@ Global
 		{5C39F17D-2EF9-4075-A6B2-1B4C39BE87CC} = {929EB616-AC6B-48AA-AC19-EEDAF817F97A}
 		{E791D9AC-DA9F-41CE-BAF8-26FA405A5307} = {7DFCBB05-B68B-4862-AE7C-E79BDAEC4D59}
 		{5C246CDC-40AF-43D0-BBC2-B13F481D472A} = {7DFCBB05-B68B-4862-AE7C-E79BDAEC4D59}
+		{4D50BFBD-9C2A-4A08-AA6C-6D9FA0753FE1} = {DE7A440B-E630-4D04-98D3-563B276E9729}
+		{2FBA361F-7F89-47EA-A69E-8F1825668FD4} = {DE7A440B-E630-4D04-98D3-563B276E9729}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9D256E4F-FA69-49FF-B97E-F3A2F5BFEABD}
