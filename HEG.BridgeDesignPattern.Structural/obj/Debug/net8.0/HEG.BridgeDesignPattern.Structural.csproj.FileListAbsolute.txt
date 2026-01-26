@@ -1,0 +1,15 @@
+/home/runner/work/designPattern/designPattern/HEG.BridgeDesignPattern.Structural/bin/Debug/net8.0/HEG.BridgeDesignPattern.Structural
+/home/runner/work/designPattern/designPattern/HEG.BridgeDesignPattern.Structural/bin/Debug/net8.0/HEG.BridgeDesignPattern.Structural.deps.json
+/home/runner/work/designPattern/designPattern/HEG.BridgeDesignPattern.Structural/bin/Debug/net8.0/HEG.BridgeDesignPattern.Structural.runtimeconfig.json
+/home/runner/work/designPattern/designPattern/HEG.BridgeDesignPattern.Structural/bin/Debug/net8.0/HEG.BridgeDesignPattern.Structural.dll
+/home/runner/work/designPattern/designPattern/HEG.BridgeDesignPattern.Structural/bin/Debug/net8.0/HEG.BridgeDesignPattern.Structural.pdb
+/home/runner/work/designPattern/designPattern/HEG.BridgeDesignPattern.Structural/obj/Debug/net8.0/HEG.BridgeDesignPattern.Structural.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/designPattern/designPattern/HEG.BridgeDesignPattern.Structural/obj/Debug/net8.0/HEG.BridgeDesignPattern.Structural.AssemblyInfoInputs.cache
+/home/runner/work/designPattern/designPattern/HEG.BridgeDesignPattern.Structural/obj/Debug/net8.0/HEG.BridgeDesignPattern.Structural.AssemblyInfo.cs
+/home/runner/work/designPattern/designPattern/HEG.BridgeDesignPattern.Structural/obj/Debug/net8.0/HEG.BridgeDesignPattern.Structural.csproj.CoreCompileInputs.cache
+/home/runner/work/designPattern/designPattern/HEG.BridgeDesignPattern.Structural/obj/Debug/net8.0/HEG.BridgeDesignPattern.Structural.sourcelink.json
+/home/runner/work/designPattern/designPattern/HEG.BridgeDesignPattern.Structural/obj/Debug/net8.0/HEG.BridgeDesignPattern.Structural.dll
+/home/runner/work/designPattern/designPattern/HEG.BridgeDesignPattern.Structural/obj/Debug/net8.0/refint/HEG.BridgeDesignPattern.Structural.dll
+/home/runner/work/designPattern/designPattern/HEG.BridgeDesignPattern.Structural/obj/Debug/net8.0/HEG.BridgeDesignPattern.Structural.pdb
+/home/runner/work/designPattern/designPattern/HEG.BridgeDesignPattern.Structural/obj/Debug/net8.0/HEG.BridgeDesignPattern.Structural.genruntimeconfig.cache
+/home/runner/work/designPattern/designPattern/HEG.BridgeDesignPattern.Structural/obj/Debug/net8.0/ref/HEG.BridgeDesignPattern.Structural.dll

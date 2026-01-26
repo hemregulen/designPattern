@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IWYLDUdnyKHIZoaopW7dASZNmBlvYTFU/EBXNvnLvq8IGysTZag/k8cvRHh3UmkvjvJhG1oMfX/TFy3Xmbx5vw==",
+  "dgSpecHash": "CUsPGdpuOR0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\emre.gulen\\source\\repos\\HEG.DesignPattern\\HEG.FacadeDesignPattern.RealWorld\\HEG.FacadeDesignPattern.RealWorld.csproj",
+  "projectFilePath": "/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.RealWorld/HEG.FacadeDesignPattern.RealWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

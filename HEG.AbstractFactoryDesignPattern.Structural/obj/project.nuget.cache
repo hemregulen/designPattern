@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zT2XLUghZO/CYnfvcUWN4FbdlDA32zgSGLXhxMgxKkgjToXv+A9/TH2hHka5jzGw9VZ0ZmCuEOwSIi7B7UWDRg==",
+  "dgSpecHash": "b4Y7MgyZFz0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\emre.gulen\\source\\repos\\HEG.DesignPattern\\HEG.AbstractFactoryDesignPattern.Structural\\HEG.AbstractFactoryDesignPattern.Structural.csproj",
+  "projectFilePath": "/home/runner/work/designPattern/designPattern/HEG.AbstractFactoryDesignPattern.Structural/HEG.AbstractFactoryDesignPattern.Structural.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

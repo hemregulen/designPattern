@@ -1,0 +1,15 @@
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.Structural/bin/Debug/net8.0/HEG.FacadeDesignPattern.Structural
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.Structural/bin/Debug/net8.0/HEG.FacadeDesignPattern.Structural.deps.json
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.Structural/bin/Debug/net8.0/HEG.FacadeDesignPattern.Structural.runtimeconfig.json
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.Structural/bin/Debug/net8.0/HEG.FacadeDesignPattern.Structural.dll
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.Structural/bin/Debug/net8.0/HEG.FacadeDesignPattern.Structural.pdb
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.Structural/obj/Debug/net8.0/HEG.FacadeDesignPattern.Structural.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.Structural/obj/Debug/net8.0/HEG.FacadeDesignPattern.Structural.AssemblyInfoInputs.cache
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.Structural/obj/Debug/net8.0/HEG.FacadeDesignPattern.Structural.AssemblyInfo.cs
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.Structural/obj/Debug/net8.0/HEG.FacadeDesignPattern.Structural.csproj.CoreCompileInputs.cache
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.Structural/obj/Debug/net8.0/HEG.FacadeDesignPattern.Structural.sourcelink.json
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.Structural/obj/Debug/net8.0/HEG.FacadeDesignPattern.Structural.dll
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.Structural/obj/Debug/net8.0/refint/HEG.FacadeDesignPattern.Structural.dll
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.Structural/obj/Debug/net8.0/HEG.FacadeDesignPattern.Structural.pdb
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.Structural/obj/Debug/net8.0/HEG.FacadeDesignPattern.Structural.genruntimeconfig.cache
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.Structural/obj/Debug/net8.0/ref/HEG.FacadeDesignPattern.Structural.dll

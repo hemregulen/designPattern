@@ -1,0 +1,15 @@
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.RealWorld/bin/Debug/net8.0/HEG.FacadeDesignPattern.RealWorld
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.RealWorld/bin/Debug/net8.0/HEG.FacadeDesignPattern.RealWorld.deps.json
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.RealWorld/bin/Debug/net8.0/HEG.FacadeDesignPattern.RealWorld.runtimeconfig.json
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.RealWorld/bin/Debug/net8.0/HEG.FacadeDesignPattern.RealWorld.dll
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.RealWorld/bin/Debug/net8.0/HEG.FacadeDesignPattern.RealWorld.pdb
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.RealWorld/obj/Debug/net8.0/HEG.FacadeDesignPattern.RealWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.RealWorld/obj/Debug/net8.0/HEG.FacadeDesignPattern.RealWorld.AssemblyInfoInputs.cache
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.RealWorld/obj/Debug/net8.0/HEG.FacadeDesignPattern.RealWorld.AssemblyInfo.cs
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.RealWorld/obj/Debug/net8.0/HEG.FacadeDesignPattern.RealWorld.csproj.CoreCompileInputs.cache
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.RealWorld/obj/Debug/net8.0/HEG.FacadeDesignPattern.RealWorld.sourcelink.json
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.RealWorld/obj/Debug/net8.0/HEG.FacadeDesignPattern.RealWorld.dll
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.RealWorld/obj/Debug/net8.0/refint/HEG.FacadeDesignPattern.RealWorld.dll
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.RealWorld/obj/Debug/net8.0/HEG.FacadeDesignPattern.RealWorld.pdb
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.RealWorld/obj/Debug/net8.0/HEG.FacadeDesignPattern.RealWorld.genruntimeconfig.cache
+/home/runner/work/designPattern/designPattern/HEG.FacadeDesignPattern.RealWorld/obj/Debug/net8.0/ref/HEG.FacadeDesignPattern.RealWorld.dll

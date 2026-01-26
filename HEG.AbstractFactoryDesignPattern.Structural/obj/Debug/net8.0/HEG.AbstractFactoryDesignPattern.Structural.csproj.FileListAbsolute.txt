@@ -1,0 +1,15 @@
+/home/runner/work/designPattern/designPattern/HEG.AbstractFactoryDesignPattern.Structural/bin/Debug/net8.0/HEG.AbstractFactoryDesignPattern.Structural
+/home/runner/work/designPattern/designPattern/HEG.AbstractFactoryDesignPattern.Structural/bin/Debug/net8.0/HEG.AbstractFactoryDesignPattern.Structural.deps.json
+/home/runner/work/designPattern/designPattern/HEG.AbstractFactoryDesignPattern.Structural/bin/Debug/net8.0/HEG.AbstractFactoryDesignPattern.Structural.runtimeconfig.json
+/home/runner/work/designPattern/designPattern/HEG.AbstractFactoryDesignPattern.Structural/bin/Debug/net8.0/HEG.AbstractFactoryDesignPattern.Structural.dll
+/home/runner/work/designPattern/designPattern/HEG.AbstractFactoryDesignPattern.Structural/bin/Debug/net8.0/HEG.AbstractFactoryDesignPattern.Structural.pdb
+/home/runner/work/designPattern/designPattern/HEG.AbstractFactoryDesignPattern.Structural/obj/Debug/net8.0/HEG.AbstractFactoryDesignPattern.Structural.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/designPattern/designPattern/HEG.AbstractFactoryDesignPattern.Structural/obj/Debug/net8.0/HEG.AbstractFactoryDesignPattern.Structural.AssemblyInfoInputs.cache
+/home/runner/work/designPattern/designPattern/HEG.AbstractFactoryDesignPattern.Structural/obj/Debug/net8.0/HEG.AbstractFactoryDesignPattern.Structural.AssemblyInfo.cs
+/home/runner/work/designPattern/designPattern/HEG.AbstractFactoryDesignPattern.Structural/obj/Debug/net8.0/HEG.AbstractFactoryDesignPattern.Structural.csproj.CoreCompileInputs.cache
+/home/runner/work/designPattern/designPattern/HEG.AbstractFactoryDesignPattern.Structural/obj/Debug/net8.0/HEG.AbstractFactoryDesignPattern.Structural.sourcelink.json
+/home/runner/work/designPattern/designPattern/HEG.AbstractFactoryDesignPattern.Structural/obj/Debug/net8.0/HEG.AbstractFactoryDesignPattern.Structural.dll
+/home/runner/work/designPattern/designPattern/HEG.AbstractFactoryDesignPattern.Structural/obj/Debug/net8.0/refint/HEG.AbstractFactoryDesignPattern.Structural.dll
+/home/runner/work/designPattern/designPattern/HEG.AbstractFactoryDesignPattern.Structural/obj/Debug/net8.0/HEG.AbstractFactoryDesignPattern.Structural.pdb
+/home/runner/work/designPattern/designPattern/HEG.AbstractFactoryDesignPattern.Structural/obj/Debug/net8.0/HEG.AbstractFactoryDesignPattern.Structural.genruntimeconfig.cache
+/home/runner/work/designPattern/designPattern/HEG.AbstractFactoryDesignPattern.Structural/obj/Debug/net8.0/ref/HEG.AbstractFactoryDesignPattern.Structural.dll
