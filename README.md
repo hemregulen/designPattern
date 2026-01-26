@@ -16,7 +16,13 @@ The Bridge pattern decouples an abstraction from its implementation so that the 
 - **Structural Example**: Basic bridge implementation
 - **Real-World Example**: Database connection abstraction supporting multiple database types (SQL Server, PostgreSQL, Azure Synapse)
 
-### 3. Facade Design Pattern
+### 3. Builder Design Pattern
+The Builder pattern separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
+
+- **Structural Example**: Basic builder implementation with multiple concrete builders
+- **Real-World Example**: Computer assembly system building gaming and office computers with different specifications
+
+### 4. Facade Design Pattern
 The Facade pattern provides a unified interface to a set of interfaces in a subsystem, making the subsystem easier to use.
 
 - **Structural Example**: Basic facade with subsystems
@@ -49,6 +55,12 @@ dotnet run --project HEG.BridgeDesignPattern.Structural
 # Bridge - Real World
 dotnet run --project HEG.BridgeDesignPattern.RealWorld
 
+# Builder - Structural
+dotnet run --project HEG.BuilderDesignPattern.Structural
+
+# Builder - Real World
+dotnet run --project HEG.BuilderDesignPattern.RealWorld
+
 # Facade - Structural
 dotnet run --project HEG.FacadeDesignPattern.Structural
 
@@ -64,6 +76,8 @@ designPattern/
 ├── HEG.AbstractFactoryDesignPattern.RealWorld/    # Abstract Factory real-world example
 ├── HEG.BridgeDesignPattern.Structural/            # Bridge structural example
 ├── HEG.BridgeDesignPattern.RealWorld/             # Bridge real-world example
+├── HEG.BuilderDesignPattern.Structural/           # Builder structural example
+├── HEG.BuilderDesignPattern.RealWorld/            # Builder real-world example
 ├── HEG.FacadeDesignPattern.Structural/            # Facade structural example
 ├── HEG.FacadeDesignPattern.RealWorld/             # Facade real-world example
 └── HEG.DesignPattern.sln                          # Visual Studio solution file
@@ -75,6 +89,7 @@ For detailed information about each pattern, see the README files in their respe
 
 - [Abstract Factory Pattern](./docs/AbstractFactory.md)
 - [Bridge Pattern](./docs/Bridge.md)
+- [Builder Pattern](./docs/Builder.md)
 - [Facade Pattern](./docs/Facade.md)
 
 ## 🎯 Learning Objectives
