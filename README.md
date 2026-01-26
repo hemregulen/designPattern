@@ -25,8 +25,8 @@ The Facade pattern provides a unified interface to a set of interfaces in a subs
 ## 🚀 Getting Started
 
 ### Prerequisites
-- .NET 6.0 or .NET 7.0 SDK
-- Visual Studio 2022 or Visual Studio Code
+- .NET 8.0 SDK or later
+- Visual Studio 2022 or Visual Studio Code (optional)
 
 ### Building the Solution
 ```bash
