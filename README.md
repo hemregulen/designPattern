@@ -28,6 +28,12 @@ The Facade pattern provides a unified interface to a set of interfaces in a subs
 - **Structural Example**: Basic facade with subsystems
 - **Real-World Example**: Washing machine facade coordinating washing, rinsing, and spinning systems
 
+### 5. Observer Design Pattern
+The Observer pattern defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
+
+- **Structural Example**: Basic observer with a concrete subject and multiple concrete observers
+- **Real-World Example**: Stock market price tracker notifying investors and price alerts on every price change
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -66,6 +72,12 @@ dotnet run --project HEG.FacadeDesignPattern.Structural
 
 # Facade - Real World
 dotnet run --project HEG.FacadeDesignPattern.RealWorld
+
+# Observer - Structural
+dotnet run --project HEG.ObserverDesignPattern.Structural
+
+# Observer - Real World
+dotnet run --project HEG.ObserverDesignPattern.RealWorld
 ```
 
 ## 📁 Project Structure
@@ -80,6 +92,8 @@ designPattern/
 ├── HEG.BuilderDesignPattern.RealWorld/            # Builder real-world example
 ├── HEG.FacadeDesignPattern.Structural/            # Facade structural example
 ├── HEG.FacadeDesignPattern.RealWorld/             # Facade real-world example
+├── HEG.ObserverDesignPattern.Structural/          # Observer structural example
+├── HEG.ObserverDesignPattern.RealWorld/           # Observer real-world example
 └── HEG.DesignPattern.sln                          # Visual Studio solution file
 ```
 
@@ -91,6 +105,7 @@ For detailed information about each pattern, see the README files in their respe
 - [Bridge Pattern](./docs/Bridge.md)
 - [Builder Pattern](./docs/Builder.md)
 - [Facade Pattern](./docs/Facade.md)
+- [Observer Pattern](./docs/Observer.md)
 
 ## 🎯 Learning Objectives
 
